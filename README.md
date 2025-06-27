@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tristanmbugua. It's nice to meet you.
 - 📫 You find me on [LinkedIn](https://www.linkedin.com/in/tristan-m-7b0002239/)!
-- 📖 I study Computer Science at Trent University. I am currently in my second of four years.
+- 📖 I study Computer Science at Trent University. I am currently in my third year.
 - 👀 I’m interested in Back-End Web Development, Data Science, Machine Learning, and Front-End Web Development.
 - 🌱 I’m currently learning Java and JavaScript.
 - 💞️ I’m looking to collaborate on Full-Stack web development projects. I'd love to join your team as a Back-End Developer.
